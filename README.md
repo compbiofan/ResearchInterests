@@ -19,28 +19,28 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 ## <a name="genomic_sequencing_technologies"></a>Genomic Sequencing Technologies ##
 
-### 10X
+###   10X
 
-### Single Cell Sequencing
+###   Single Cell Sequencing
 
-### Illumina Paired-end
+###   Illumina Paired-end
 
-### PacBio
+###   PacBio
 
-### Optical Maps
+###   Optical Maps
 
-### Nanopore
+###   Nanopore
 
-### HiC
+###   HiC
 
 ## Computational Tools
 
-### Structural Variation Detection
+###   Structural Variation Detection
 
-### Phylogenetic Tree Reconstruction
+###   Phylogenetic Tree Reconstruction
 
 ## Cancer Specific
 
-### Molecular Timing of Mutations
+###   Molecular Timing of Mutations
 
-Gerstung, Moritz, et al. "The evolutionary history of 2,658 cancers." Nature 578.7793 (2020): 122-128. (PCAWG paper in 2020)
+         Gerstung, Moritz, et al. "The evolutionary history of 2,658 cancers." Nature 578.7793 (2020): 122-128. (PCAWG paper in 2020)
