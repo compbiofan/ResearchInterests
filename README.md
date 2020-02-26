@@ -80,10 +80,10 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 **<a name="multiple_datasets"></a>Joint Analysis with Multiple Datasets**
 
-   - **DNA, RNA, immune on multi-region bulk and single cell**   Non-Genetic Intra-Tumor Heterogeneity Is a Major Predictor of Phenotypic Heterogeneity and Ongoing Evolutionary Dynamics in Lung Tumors
+   - **DNA, RNA, immune on multi-region bulk and single cell:**   Non-Genetic Intra-Tumor Heterogeneity Is a Major Predictor of Phenotypic Heterogeneity and Ongoing Evolutionary Dynamics in Lung Tumors
 
 **<a name="molecular_timing_of_mutations"></a>Molecular Timing of Mutations**
 
-   - **PCAWG reconstructing history**   Gerstung, Moritz, et al. "The evolutionary history of 2,658 cancers." Nature 578.7793 (2020): 122-128. 
+   - **PCAWG reconstructing history:**   Gerstung, Moritz, et al. "The evolutionary history of 2,658 cancers." Nature 578.7793 (2020): 122-128. 
    
-   - **PCAWG DNA and RNA**    Calabrese, Claudia, et al. "Genomic basis for RNA alterations in cancer." Nature 578.7793 (2020): 129-136. (PCAWG paper in 2020, having both whole genome sequencing and trascript alteration data.)
+   - **PCAWG DNA and RNA:**    Calabrese, Claudia, et al. "Genomic basis for RNA alterations in cancer." Nature 578.7793 (2020): 129-136. (PCAWG paper in 2020, having both whole genome sequencing and trascript alteration data.)
