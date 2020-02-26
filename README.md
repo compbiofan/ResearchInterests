@@ -19,7 +19,7 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 ## <a name="genomic_sequencing_technologies"></a>Genomic Sequencing Technologies ##
 
-###   10X
+**10X**
 
 ###   Single Cell Sequencing
 
