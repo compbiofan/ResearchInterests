@@ -29,6 +29,10 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 - scRNA-seq
 
+- >= 2 seqs
+
+   - **DNA and RNA** Dey, Siddharth S., et al. "Integrated genome and transcriptome sequencing of the same cell." Nature biotechnology 33.3 (2015): 285.
+
 **<a name="illumina"></a>Illumina Paired-end**
 
 **<a name="pacbio"></a>PacBio**
