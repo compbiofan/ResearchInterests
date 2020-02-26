@@ -55,6 +55,8 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 - RNA
 
+   - **Expression and VAF (CaSpER):**    Harmanci, Akdes Serin, Arif O. Harmanci, and Xiaobo Zhou. "CaSpER identifies and visualizes CNV events by integrative analysis of single-cell or bulk RNA-sequencing data." Nature Communications 11.1 (2020): 1-16.
+
    - **Overcome Drop-outs (SClineger):**   Lu, Tianshi, et al. "Overcoming Genetic Drop-outs in Variants-based Lineage Tracing from Single-cell RNA Sequencing Data." bioRxiv (2020).
 
 ---
