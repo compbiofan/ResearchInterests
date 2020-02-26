@@ -62,6 +62,8 @@ This directory is for summarizing the research interests in my area. It gives mo
    - CNA
    
       - **Using scRNA alone and control cells (sciCNV):**   Madipour-Shirayeh, Ali, et al. "Simultaneous Profiling of DNA Copy Number Variations and Transcriptional Programs in Single Cells using RNA-seq." bioRxiv (2020).
+      
+      - **Expression and SNV VAF (CaSpER):**    Harmanci, Akdes Serin, Arif O. Harmanci, and Xiaobo Zhou. "CaSpER identifies and visualizes CNV events by integrative analysis of single-cell or bulk RNA-sequencing data." Nature Communications 11.1 (2020): 1-16.
 
 
 **<a name="reconstructing_ITH"></a>Reconstructing Heterogeneity**
@@ -69,8 +71,6 @@ This directory is for summarizing the research interests in my area. It gives mo
 - DNA
 
 - RNA
-
-   - **Expression and VAF (CaSpER):**    Harmanci, Akdes Serin, Arif O. Harmanci, and Xiaobo Zhou. "CaSpER identifies and visualizes CNV events by integrative analysis of single-cell or bulk RNA-sequencing data." Nature Communications 11.1 (2020): 1-16.
 
    - **Overcome Drop-outs (SClineger):**   Lu, Tianshi, et al. "Overcoming Genetic Drop-outs in Variants-based Lineage Tracing from Single-cell RNA Sequencing Data." bioRxiv (2020).
 
