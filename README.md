@@ -55,6 +55,15 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 **<a name="structural_variation_detection"></a>Structural Variation Detection**
 
+- DNA
+
+- RNA
+
+   - CNA
+   
+      - **Using scRNA alone and control cells (sciCNV):**   Madipour-Shirayeh, Ali, et al. "Simultaneous Profiling of DNA Copy Number Variations and Transcriptional Programs in Single Cells using RNA-seq." bioRxiv (2020).
+
+
 **<a name="reconstructing_ITH"></a>Reconstructing Heterogeneity**
 
 - DNA
