@@ -29,9 +29,9 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 - scRNA-seq
 
-- >= 2 seqs
+- combined seq
 
-   - **DNA and RNA** Dey, Siddharth S., et al. "Integrated genome and transcriptome sequencing of the same cell." Nature biotechnology 33.3 (2015): 285.
+   - **DNA and RNA:**   Dey, Siddharth S., et al. "Integrated genome and transcriptome sequencing of the same cell." Nature biotechnology 33.3 (2015): 285.
 
 **<a name="illumina"></a>Illumina Paired-end**
 
@@ -50,6 +50,12 @@ This directory is for summarizing the research interests in my area. It gives mo
 **<a name="structural_variation_detection"></a>Structural Variation Detection**
 
 **<a name="reconstructing_ITH"></a>Reconstructing Heterogeneity**
+
+- DNA
+
+- RNA
+
+   - **Overcome Drop-outs (SClineger):**   Lu, Tianshi, et al. "Overcoming Genetic Drop-outs in Variants-based Lineage Tracing from Single-cell RNA Sequencing Data." bioRxiv (2020).
 
 ---
 
