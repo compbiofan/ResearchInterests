@@ -31,7 +31,9 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 - combined seq
 
-   - **DNA and RNA:**   Dey, Siddharth S., et al. "Integrated genome and transcriptome sequencing of the same cell." Nature biotechnology 33.3 (2015): 285.
+   - **DNA(CNA) and RNA:**   Dey, Siddharth S., et al. "Integrated genome and transcriptome sequencing of the same cell." Nature biotechnology 33.3 (2015): 285.
+   
+   - **DNA(SNV) and RNA:**   Rodriguez-Meira, Alba, et al. "Unravelling intratumoral heterogeneity through high-sensitivity single-cell mutational analysis and parallel RNA sequencing." Molecular cell 73.6 (2019): 1292-1305.
 
 **<a name="illumina"></a>Illumina Paired-end**
 
