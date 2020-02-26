@@ -33,6 +33,8 @@ This directory is for summarizing the research interests in my area. It gives mo
 
    - **DNA(CNA) and RNA (DR-seq):**   Dey, Siddharth S., et al. "Integrated genome and transcriptome sequencing of the same cell." Nature biotechnology 33.3 (2015): 285.
    
+   - **DNA(CNA) and RNA (SIDR):**   Han, Kyung Yeon, et al. "SIDR: simultaneous isolation and parallel sequencing of genomic DNA and total RNA from single cells." Genome research 28.1 (2018): 75-87.
+   
    - **DNA(SNV) and RNA (TARGET-seq):**   Rodriguez-Meira, Alba, et al. "Unravelling intratumoral heterogeneity through high-sensitivity single-cell mutational analysis and parallel RNA sequencing." Molecular cell 73.6 (2019): 1292-1305.
 
 **<a name="illumina"></a>Illumina Paired-end**
