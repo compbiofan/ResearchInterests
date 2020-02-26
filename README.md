@@ -13,7 +13,7 @@ This directory is for summarizing the research interests in my area. It gives mo
     * [HiC](#hic)
 - [Computational Tools](#computational_tools)
     * [Structural Variation Detection](#structural_variation_detection)
-    * [Phylogenetic Tree Reconstruction](#phylogenetic_tree_reconstruction)
+    * [Reconstructing Heterogeneity](#reconstructing_ITH)
 - [Cancer Specific](#cancer_specific)
     * [Molecular Timing of Mutations](#molecular_timing_of_mutations)
 
@@ -21,37 +21,37 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 ## <a name="genomic_sequencing_technologies"></a>Genomic Sequencing Technologies ##
 
-**10X**
+**<a name="10x"></a>10X**
 
-**Single Cell Sequencing**
+**<a name="single_cell"></a>Single Cell Sequencing**
 
 - scDNA-seq
 
 - scRNA-seq
 
-**Illumina Paired-end**
+**<a name="illumina"></a>Illumina Paired-end**
 
-**PacBio**
+**<a name="pacbio"></a>PacBio**
 
-**Optical Maps**
+**<a name="optical_maps"></a>Optical Maps**
 
-**Nanopore**
+**<a name="nanopore"></a>Nanopore**
 
-**HiC**
+**<a name="hic"></a>HiC**
 
 ---
 
-## Computational Tools
+## <a name="computational_tools"></a>Computational Tools
 
-**Structural Variation Detection**
+**<a name="structural_variation_detection"></a>Structural Variation Detection**
 
-**Phylogenetic Tree Reconstruction**
+**<a name="reconstructing_ITH"></a>Reconstructing Heterogeneity**
 
 ---
 
 ## <a name="cancer_specific"></a>Cancer Specific ##
 
-**Molecular Timing of Mutations**
+**<a name="molecular_timing_of_mutations"></a>Molecular Timing of Mutations**
 
    Gerstung, Moritz, et al. "The evolutionary history of 2,658 cancers." Nature 578.7793 (2020): 122-128. (PCAWG paper in 2020, the first large-scale genome-wide reconstruction of cancer evolutionary history, including mutations, copy number aberrations, whole genome duplications etc.)
    
