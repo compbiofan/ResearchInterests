@@ -23,6 +23,10 @@ This directory is for summarizing the research interests in my area. It gives mo
 
 ###   Single Cell Sequencing
 
+- scDNA-seq
+
+- scRNA-seq
+
 ###   Illumina Paired-end
 
 ###   PacBio
