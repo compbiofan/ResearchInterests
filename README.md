@@ -64,6 +64,8 @@ This directory is for summarizing the research interests in my area. It gives mo
       - **Using scRNA alone and control cells (sciCNV):**   Madipour-Shirayeh, Ali, et al. "Simultaneous Profiling of DNA Copy Number Variations and Transcriptional Programs in Single Cells using RNA-seq." bioRxiv (2020).
       
       - **Expression and SNV VAF (CaSpER):**    Harmanci, Akdes Serin, Arif O. Harmanci, and Xiaobo Zhou. "CaSpER identifies and visualizes CNV events by integrative analysis of single-cell or bulk RNA-sequencing data." Nature Communications 11.1 (2020): 1-16.
+       
+      - **Inferring CNA from scRNA (Analysis done in Supp pp.4-5 and Figure S23 shall be considered for our analysis and comparison):**   Patel, Anoop P., et al. "Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma." Science 344.6190 (2014): 1396-1401.
 
 
 **<a name="reconstructing_ITH"></a>Reconstructing Heterogeneity**
@@ -73,7 +75,6 @@ This directory is for summarizing the research interests in my area. It gives mo
 - RNA
 
    - **Overcome Drop-outs (SClineger):**   Lu, Tianshi, et al. "Overcoming Genetic Drop-outs in Variants-based Lineage Tracing from Single-cell RNA Sequencing Data." bioRxiv (2020).
-   - **Inferring CNA from scRNA (Analysis done in Supp pp.4-5 and Figure S23 shall be considered for our analysis and comparison):**   Patel, Anoop P., et al. "Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma." Science 344.6190 (2014): 1396-1401.
 
 ---
 
