@@ -71,6 +71,9 @@ This directory is for summarizing the research interests in my area. It gives mo
 **<a name="reconstructing_ITH"></a>Reconstructing Heterogeneity**
 
 - DNA
+   - **Weaver: allele-specific copy numbers of SVs**
+   - **Meltos: SNVs + SVs for tree reconstruction on multi-sample bulk (Bioinformatics 2020)**
+   - **bulk + SCS for tree reconstruction on CNA:**   Tumor Copy Number Deconvolution Integrating Bulk and Single-Cell Sequencing Data, Journal of Computational Biology (2020). 
 
 - RNA
 
